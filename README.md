@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles on my Linux machine
+dotfiles on my Linux machine. I'm using Elementary OS.
