@@ -1,0 +1,10 @@
+[user]
+    name = Onur Yaman
+	email = onuryaman@gmail.com
+	signingkey = 3B313B1A83902A57
+[core]
+	editor = vim
+	excludesfile = /Users/onur/.sensimevanidus/.gitignore_global
+	autocrlf = input
+[commit]
+	template = /Users/onur/.sensimevanidus/.gitmessage
