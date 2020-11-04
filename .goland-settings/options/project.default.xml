@@ -1,0 +1,35 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+      <component name="GoLibraries">
+        <option name="indexEntireGoPath" value="false" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+        <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+      </component>
+      <component name="VgoProject">
+        <integration-enabled>true</integration-enabled>
+        <auto-vendoring-mode>false</auto-vendoring-mode>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

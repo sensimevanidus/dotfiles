@@ -1,0 +1,40 @@
+<application>
+  <component name="GroupManager">
+    <expandedByName>
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="actions" value="NOT_PASSED" />
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="code completion for functions" value="NOT_PASSED" />
+        <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="debug function calls" value="NOT_PASSED" />
+        <entry key="editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="goland2019.3.forrlivetemplate" value="NOT_PASSED" />
+        <entry key="gophercon.codeformatting" value="NOT_PASSED" />
+        <entry key="gophercon.gofmt" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="navigation from comments" value="NOT_PASSED" />
+        <entry key="postfix completion with sort" value="NOT_PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="select" value="NOT_PASSED" />
+        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion and pointers" value="NOT_PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="struct inspections" value="NOT_PASSED" />
+        <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
