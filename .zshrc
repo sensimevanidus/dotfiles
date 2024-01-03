@@ -1,3 +1,6 @@
+newLine=$'\n'
+PS1="%n@%m:%~${newLine}> "
+
 # disable indexing for Spotlight
 alias spotlight-disable="sudo mdutil -a -i off" 
 
